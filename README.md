@@ -1,1 +1,1 @@
-# logos
+# vector designs
