@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
 
 body {
-  font-family: "aachen, sans-serif";
+  font-family: "aachen, calibri, sans-serif";
   font-size: 18px;
 
   background-attachment: fixed;/*para que sea estático*/
@@ -16,7 +16,7 @@ body {
 }
 
 .orange0{
-  background-color: rgb(255, 196, 0);
+  background-color: rgb(255, 198, 11);
 }
 
 .padding{
