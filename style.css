@@ -1,0 +1,66 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+body {
+  font-family: "aachen, sans-serif";
+  font-size: 18px;
+
+  background-attachment: fixed;/*para que sea estático*/
+
+}
+
+.background{
+  color: rgba(0, 0, 0, 0.699);
+}
+
+.orange0{
+  background-color: rgb(255, 196, 0);
+}
+
+.padding{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.card-panel{
+  padding-left: 5% ;
+  padding-right: 5% ;
+}
+
+.card-title{
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  /* font-family: oswald; */
+  font-weight: bold;
+}
+.blackText{
+  color:black;
+}
+
+.card-margin{
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 5%;
+}
+
+.card-text{
+  color: rgb(0, 0, 0);
+}
+
+.orange1{
+  background-color: rgba(255, 196, 0, 0.500);
+}
+
+.gris{
+  background-color: rgba(143, 141, 140, 0.322);
+}
+.grey2{
+  background-color: rgba(75, 71, 71, 0.836);
+}
+.link-text{
+  background-color: rgb(255, 106, 0);
+}
